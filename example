@@ -6,6 +6,7 @@
 Address = 10.7.0.1/24
 PrivateKey = 
 ListenPort = 51820
+MTU =1380
 
 # BEGIN_PEER wikic1
 [Peer]
@@ -14,6 +15,5 @@ Endpoint =
 #对端publickey
 PublicKey = 
 PersistentKeepalive = 25
-MTU =1380
 AllowedIPs = 10.7.0.2/32
 # END_PEER wikic1
