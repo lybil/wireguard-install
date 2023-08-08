@@ -1,0 +1,19 @@
+# Do not alter the commented lines
+# They are used by wireguard-install
+# ENDPOINT 209.146.124.206
+
+[Interface]
+Address = 10.7.0.1/24
+PrivateKey = 
+ListenPort = 51820
+
+# BEGIN_PEER wikic1
+[Peer]
+#对段ip:端口
+Endpoint = 
+#对端publickey
+PublicKey = 
+PersistentKeepalive = 25
+MTU =1380
+AllowedIPs = 10.7.0.2/32
+# END_PEER wikic1
