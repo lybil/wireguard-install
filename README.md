@@ -1,4 +1,4 @@
-[English](README.md) | [中文](README-zh.md) | [Vídeo en Español](https://www.youtube.com/watch?v=99qtaJU2E2k)
+[English](README-en.md) | [中文](README.md) | [Vídeo en Español](https://www.youtube.com/watch?v=99qtaJU2E2k)
 
 # WireGuard VPN 服务器一键安装脚本
 
